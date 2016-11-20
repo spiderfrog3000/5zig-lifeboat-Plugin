@@ -1,0 +1,29 @@
+{
+  "modules": [
+    {
+      "id": "lifeboat",
+      "name": "lifeboat",
+      "server": "lifeboat",
+      "items": [
+        {
+           "type": "lifeboatSERVER"
+        },
+        {
+           "type": "lifeboatMAP"
+        },
+        {
+           "type": "lifeboatTIME"
+        },
+        {
+           "type": "lifeboatKILLS"
+        },
+        {
+           "type": "lifeboatDEATHS"
+        },
+        {
+           "type": "lifeboatTEAM"
+        }
+      ]
+    }
+  ]
+}
