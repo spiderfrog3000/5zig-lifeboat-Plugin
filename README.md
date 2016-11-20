@@ -1,4 +1,4 @@
-# 5zi-lifeboat-Plugin
+# 5zig-lifeboat-Plugin
 A 5zig Plugin for PC-lifeboat
 
 ## Installation
